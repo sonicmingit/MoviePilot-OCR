@@ -125,22 +125,8 @@ python main.py
 
 ## 📄 License
 
-MIT License © 2025 \[Your Name]
+MIT License © 2025 \[jxxghp/MoviePilot]
 
----
 
-> 欢迎使用和修改本项目，如有建议或问题欢迎提 Issue！
-
-```
-
----
-
-### ✅ 使用建议
-
-- 项目命名建议使用 `moviepilot-ocr` 或更具语义的中文拼音（如 `captcha-ocr-api`）
-- `README.md` 中可以加入截图、识别样例或模型精度等内容来增强吸引力
-- 如果你打算发布 Docker Hub 镜像，也可以附上 `docker pull` 指令
-
-需要我再帮你生成 `requirements.txt`、`.dockerignore` 或 `.gitignore` 文件也可以继续说。
 
 
