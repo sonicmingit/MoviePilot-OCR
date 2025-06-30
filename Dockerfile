@@ -1,7 +1,7 @@
 FROM python:3.10.11-slim-bullseye
 ENV LANG="C.UTF-8" \
     TZ="Asia/Shanghai" \
-    REPO_URL="https://github.com/jxxghp/MoviePilot-OCR.git" \
+    REPO_URL="https://github.com/sonicmingit/MoviePilot-OCR.git" \
     WORKDIR="/app"
 RUN apt-get update -y \
     && apt-get install -y \
