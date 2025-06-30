@@ -8,7 +8,7 @@ MoviePilot使用的验证码OCR识别服务，成功率90%以上。
 ---
 
 # 更新内容
-下面是一个为你的 **MoviePilot-OCR 项目**量身定制的 `README.md` 示例，格式标准、内容清晰，适合发布到 GitHub 上：
+
 
 ---
 
