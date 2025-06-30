@@ -12,7 +12,8 @@ MoviePilot使用的验证码OCR识别服务，成功率90%以上。
 
 ---
 
-````markdown
+
+
 # MoviePilot-OCR
 
 🎯 基于 [PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) 的验证码识别服务，使用 FastAPI 提供 REST 接口，支持 Base64 图像识别，部署简单，性能优良。
@@ -141,5 +142,5 @@ MIT License © 2025 \[Your Name]
 - 如果你打算发布 Docker Hub 镜像，也可以附上 `docker pull` 指令
 
 需要我再帮你生成 `requirements.txt`、`.dockerignore` 或 `.gitignore` 文件也可以继续说。
-```
+
 
